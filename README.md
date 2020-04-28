@@ -17,4 +17,3 @@ Front-End:
 
 Back-End:
 	Express.js 
-	MongoDB
